@@ -1,13 +1,3 @@
-[package]
-name = "wire_format_derive"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-
-[dependencies]
-syn = "^1"
-quote = "^1"
-proc-macro2 = "^1"
-
-[lib]
-proc-macro = true
-path = "wire_format_derive.rs"
+version https://git-lfs.github.com/spec/v1
+oid sha256:240e22b9b2227d3268773e48377ddbfdc9553f6b025a7fbfbd0b455222195258
+size 209

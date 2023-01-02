@@ -1,3 +1,3 @@
-# ANDROID: Remove because Gerrit does not recognize these emails and reject the upload.
-#chirantan@chromium.org
-#dgreid@chromium.org
+version https://git-lfs.github.com/spec/v1
+oid sha256:379096f59de3fd90ed010a5de5500032ffb503d2e666ed12d6944be4a51d7c18
+size 132
